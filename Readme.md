@@ -13,12 +13,14 @@
 
 5. Create an instagram account and follow accounts you want to scrape from
 
-6. Open `main.py` in a text editor and fill in necessary information
+6. Open `main.py` in a text editor and add path of intro and outro video (Optional)
 
 7. Open `InstagramLoginInfo.py` in a text editor and fill in credentials
 
-8. Run `python3 main.py` and authenticate your account 
+8. Open `UploadOnYoutube.py` and add `categoryId`,`title`,`description`,`tags`,etc.
 
-9. Enjoy Your Automated Youtube Channel
+9. Run `python3 main.py` and authenticate your account 
+
+10. Enjoy Your Automated Youtube Channel
 
 
