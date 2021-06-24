@@ -1,4 +1,4 @@
-# Fully Automated Youtube Channel
+# Automated Youtube Channel
 ###### It is a piece of code that downloads videos from instagram, stiches them(compiles them) and uploads that compiled video on YouTube 
 
 ## Instructions
