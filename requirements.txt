@@ -4,6 +4,5 @@ google_auth_oauthlib
 instaloader
 instalooter
 moviepy
-protobuf
 datetime
 python_dateutil
